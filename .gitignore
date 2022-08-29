@@ -1,7 +1,6 @@
 # The basics
 .DS_Store
 node_modules
-dist
 
 # Local env files
 .env
